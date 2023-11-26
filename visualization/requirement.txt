@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+tensorflow
+keras
+sentence_transformers
